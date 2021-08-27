@@ -8,6 +8,7 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
+    <description>Web module for our multi module Spring Boot application</description>
 
     <artifactId>pet-clinic-data</artifactId>
 
